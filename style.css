@@ -1,0 +1,216 @@
+body{
+    padding: 0;
+    margin: 0;
+    color: #00000000;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(107.39deg, rgba(255, 153, 0, 0.08) 8.55%, rgba(252, 190, 16, 0.54) 30.13%, rgba(251, 215, 27, 0.73) 46.19%, #F7CB37 68.82%, rgba(254, 215, 10, 0.623157) 99.35%, #FFAA05 100%);
+    width: 1600px;
+    height: 900px;
+    position: fixed;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  body {
+    padding: 1em;
+    outline-offset: -1em;
+  }
+
+
+
+.cont {
+    max-width: 1600px;
+    max-height: 900px;
+}
+
+
+.container {
+    margin-top: 80px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.price {
+    color: black;
+    display: flex;
+}
+
+#llogo {
+    position: absolute;
+    left: 275px;
+    top: 50px;
+}
+
+.menu {
+    position: absolute;
+    width: 495px;
+    height: 33px;
+    left: 751px;
+    top: 70px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    word-spacing: 36px;
+    font-weight: 400;
+}
+#genr{
+    font-weight: 700;
+}
+
+.line {
+    position: absolute;
+    width: 84px;
+    height: 0px;
+    left: 752px;
+    top: 85px;
+    
+}
+
+#serv {
+    word-spacing: 2px;
+}
+
+.price {
+    position: absolute;
+    height: 44px;
+    left: 1453px;
+    top: 60px;
+}
+
+.money {
+    position: absolute;
+    color: black;
+    left: 1513px;
+    top: 51px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:active {
+    color:rgba(255, 143, 5, 1) ;
+}
+
+
+.txt {
+    position: absolute;
+    width: 532px;
+    height: 226px;
+    left: 275px;
+    top: 282px;
+    color: black;
+
+}
+
+#genh {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 56px;
+}
+
+.genhh {
+    position: absolute;
+    top: 0px;
+}
+
+.othhh {
+    position: absolute;
+    top: 167px;
+}
+
+#othh {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+
+.square{
+    position: absolute;
+    left: 270px;
+    top: 592px;
+    width: 211px;
+    height: 63px;
+    background-color: aqua;
+    background:linear-gradient(95.34deg, #FF0101 1.17%, #FF9901 118.67%);
+    border-radius: 35px;
+}
+
+#sf {
+    color: white;
+    position: absolute;
+    width: 159px;
+    height: 30px;
+    left: 300px;
+    top: 587px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.anmls {
+    position:absolute;
+    left: 945px;
+    top: 235px;    
+}
+
+.dogs {
+    position: absolute;
+    width: 192px;
+    height: 204px;
+    left: 268px;
+    top: 805px;
+}
+
+.birds {
+    position: absolute;
+    top: 805px;
+    left: 515px;
+}
+
+#dogt {
+    position: absolute;
+    left: 298px;
+    top: 803px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    color: #FF5C00;
+}
+
+#birdt {
+    position: absolute;
+    left: 544px;
+    top: 803px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    color: #FF5C00;   
+}
